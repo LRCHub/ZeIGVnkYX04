@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "napori",
+  "base_artist": "Vaundy",
+  "createdAt": "2025-12-02T19:43:39.764677Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "napori",
+      "artist": "Vaundy",
+      "has_synced": true,
+      "path": "select/01_napori_Vaundy.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "napori",
+      "artist": "Vaundy",
+      "has_synced": true,
+      "path": "select/02_napori_Vaundy.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "napori",
+      "artist": "Vaundy",
+      "has_synced": false,
+      "path": "select/pl_01_napori_Vaundy.txt"
+    }
+  ]
+}
